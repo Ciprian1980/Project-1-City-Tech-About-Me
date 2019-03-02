@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Slabo+27px');
+
+
+
+header{
+    background:url(../img/web-design-700x350.jpg);
+    background-position:center center;
+    background-size:cover;
+    padding:100px 0px 0px
+}
+header h1{
+    color:#fff;
+    text-shadow: 0px 0px 30px #000;
+}
+nav ul{
+	list-style:none;
+    padding:0px;
+}
+
+nav li{
+	display:inline-block;
+}
+
+nav a{
+	font-size:20px;
+	padding:5px;
+	color:#C10132;
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	display: block;
+}
+.center{
+    max-width:900px;
+    margin:0 auto;
+}
+.links{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+#radio{
+    background-color: beige;
+    padding: 10px;
+}
+#land{
+    font-family: 'Playfair Display', serif;
+}
